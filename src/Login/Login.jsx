@@ -8,6 +8,7 @@ export const Login = () => {
       <label htmlFor="password">Password:</label>
       <input id="password" type="password" name="password" size="28" />
       <button id="btn-login" name="btn-login">Войти</button>
+      
     </form>
   );
 };
